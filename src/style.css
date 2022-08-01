@@ -1,6 +1,10 @@
 .root {
 }
 
+body {
+  background-color: rgb(248, 249, 250) !important;
+}
+
 .container {
   text-align: center;
 }
